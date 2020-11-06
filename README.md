@@ -1,6 +1,7 @@
 # codigos-box2D-en-espanol
 este repositorio se creo para guardar los códigos sobre en processing que usa la biblioteca box2D.
 los códigos fueron originalmente desarrollados para mis estudiantes del tecnológico de costa rica, pero por petición de otras personas interesadas se publicaron acá.
+
 los códigos usan la biblioteca original box2d que se encuentra en este mismo repositorio, la biblioteca de daniel shiffman que se puede descargar desde el mismo IDE de processing no es compatible con estos códigos (son solo unos detalles de sintaxis así que si se desea se pueden convertir con poco trabajo). las dos bibliotecas no son compatibles así que en caso de tener la de shiffman instalada se debe desinstalar e instalar esta.
 
 los códigos son explicados en el canal de youtube en esta dirección:
