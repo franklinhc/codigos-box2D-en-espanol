@@ -1,4 +1,6 @@
 # codigos-box2D-en-espanol
+<img width="752" alt="Screen Shot 2020-09-25 at 14 04 32" src="https://user-images.githubusercontent.com/16749952/136482401-823d75b5-36b7-4def-870d-2ef9558a8b00.png">
+
 este repositorio se creo para guardar ejemplos de códigos en processing usando la biblioteca box2D.
 los códigos fueron originalmente desarrollados para mis estudiantes del tecnológico de costa rica, pero por petición de otras personas interesadas se publicaron acá.
 
