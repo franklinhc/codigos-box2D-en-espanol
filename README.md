@@ -32,4 +32,4 @@ ejemplos de proyectos:
 
 ejemplos de proyectos hechos por mis estudiantes con estos y otros códigos se pueden encontrar en mi web:
 
-http://skizata.com/mlab.html
+http://skizata.xyz
